@@ -5,4 +5,4 @@ public class Main {
         JuegoRandom juego = new JuegoRandom();
         juego.jugar();
     }
-}   
+}

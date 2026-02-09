@@ -26,5 +26,5 @@ public class JuegoDAO {
         cs.execute();
         cs.close();
         con.close();
-    }   
+    }
 }

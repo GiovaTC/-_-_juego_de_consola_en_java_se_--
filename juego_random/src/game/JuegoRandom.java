@@ -18,7 +18,7 @@ public class JuegoRandom {
         return 10000000 + r.nextInt(90000000);
     }
 
-    public void Jugar() {
+    public void jugar() {
         Scanner sc = new Scanner(System.in);
         JuegoDAO dao = new JuegoDAO();
         int numeroJugador;
