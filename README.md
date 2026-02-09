@@ -71,7 +71,7 @@ END;
 
 ☕ 2. Proyecto Java SE (Consola):
 📂 Estructura recomendada
-```
+
 src/
  ├─ util/
  │   └─ DBConnection.java
@@ -79,8 +79,7 @@ src/
  │   └─ JuegoDAO.java
  ├─ game/
  │   └─ JuegoRandom.java
- └─ Main.java
- ```
+ └─ Main.java  
 
 🔌 3. Conexión a Oracle:
 DBConnection.java
