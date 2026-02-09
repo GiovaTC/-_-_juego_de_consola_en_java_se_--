@@ -2,7 +2,9 @@
 # 🎲 Juego de Consola en Java SE:  
 ## **Adivina el Número de 8 Dígitos**  
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2858c389-8616-4aa1-9628-670b0a5f7835" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2858c389-8616-4aa1-9628-670b0a5f7835" />    
+
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a75f6c7-2e44-4e21-a4f1-c9541af4e0a3" />  
 
 Solución completa, profesional y coherente de un **juego de consola en Java SE** que cumple con los siguientes objetivos:
 
